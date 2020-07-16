@@ -8,7 +8,7 @@ Kunkin osan README sisältää vuoden 2020 tehtävänannot.
 #### TEHTÄVÄT
 * OSA 0 (0.4-6)
 * OSA 1
- * Kurssitiedot (1.1-5)
- * Unicafe (1.6-11)
- * Anekdootit (1.12-14)
+  * Kurssitiedot (1.1-5)
+  * Unicafe (1.6-11)
+  * Anekdootit (1.12-14)
 * OSA 2
