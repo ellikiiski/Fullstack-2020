@@ -6,9 +6,9 @@ Linkki [kurssimateriaaliin](https://fullstackopen.com/), joka saattaa muuttua vu
 Kunkin osan README sisältää vuoden 2020 tehtävänannot.
 
 #### TEHTÄVÄT
-0 OSA
-1 OSA
-* Kurssitiedot
-* Unicafe
-* Anekdootit
-
+0. OSA (0.4-6)
+1. OSA
+  * Kurssitiedot (1.1-5)
+  * Unicafe (1.6-11)
+  * Anekdootit (1.12-14)
+2. OSA
