@@ -2,8 +2,7 @@
 #### Fullstack tuo, fullstack tuo, fullstack tuo töitä jokaisen luo
 
 ### Kurssi Fullstack open 2020
-Linkki [kurssimateriaaliin](https://fullstackopen.com/), joka saattaa muuttua vuosien varrella.
-Kunkin osan README sisältää vuoden 2020 tehtävänannot.
+Linkki [kurssimateriaaliin](https://fullstackopen.com/), joka varmaankin saattaa muuttua vuosien varrella.
 
 #### TEHTÄVÄT
 * [OSA 0](https://github.com/ellikiiski/Fullstack-2020/tree/master/Osa-0) (4-6)
